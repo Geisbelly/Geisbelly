@@ -7,7 +7,6 @@ Minha curiosidade é uma chama que nunca se apaga, guiando-me através do meu fa
 
 Qualquer coisa posso fazer, desde que esteja com uma garrafa de café em mãos.
 
-<br>
 
 ## Minhas Habilidades
 
@@ -33,7 +32,6 @@ Qualquer coisa posso fazer, desde que esteja com uma garrafa de café em mãos.
 ![NetBeans](https://img.shields.io/badge/NetBeans-1F9B1F?style=for-the-badge&logo=apache-netbeans&logoColor=white)&nbsp;
 ![DBEAVE](https://img.shields.io/badge/DBEAVE-007396?style=for-the-badge&logo=database&logoColor=white)&nbsp;
 
-<br>
 
 ## Contatos:
 
