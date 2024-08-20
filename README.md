@@ -1,4 +1,4 @@
-## Minhas Habilidades
+### Sobre Mim
 
 Sou uma exploradora solitária no vasto universo da Tecnologia da Informação, navegando pelo caminho da Ciência da Computação com um desejo profundo de entender e criar. Minha jornada é marcada por uma busca constante em prototipações, experiência do usuário e testes, tentando transformar ideias e desafios em soluções tangíveis.
 
