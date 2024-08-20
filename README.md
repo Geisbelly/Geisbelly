@@ -3,6 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0c6875&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+e+Geisbelly+;Prazer+em+conhecer+você!+:%29)](https://git.io/typing-svg)
 
 
+
+<div align="center" />
+
+
+ 
 ## Sobre Mim
 
 
@@ -13,17 +18,27 @@ Sou uma exploradora (na verdade, sou uma conquistadora rsrs) do vasto universo d
 Minha curiosidade é uma chama que nunca se apaga (talvez ao raiar do sol — uma típica noturna), guiando-me através do meu fascínio pela ciência de dados e pelo aprendizado de máquinas. Cada projeto se apresenta como uma tela em branco, onde a programação se torna uma forma de expressão e cada desafio, uma oportunidade de descobrir novas possibilidades.
 
 Seja qual for o obstáculo, posso enfrentá-lo com uma garrafa de café ao meu lado.
+<div> 
 
 
+ 
 ## Minhas Habilidades
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" style="filter: hue-rotate(0deg) saturate(100%) brightness(1) invert(0); fill: #0c6875;" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
+
+<div align="left">
+ 
 #### Main Stack:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+</div>
+
+
+
+<div align="left">
 
 #### Secondary Stack:
 
@@ -32,7 +47,10 @@ Seja qual for o obstáculo, posso enfrentá-lo com uma garrafa de café ao meu l
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 
 
+
 #### Studying in this moment:
+
+
 
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -44,6 +62,7 @@ Seja qual for o obstáculo, posso enfrentá-lo com uma garrafa de café ao meu l
 ![NetBeans](https://img.shields.io/badge/NetBeans-1F9B1F?style=for-the-badge&logo=apache-netbeans&logoColor=white)&nbsp;
 ![DBEAVE](https://img.shields.io/badge/DBEAVE-007396?style=for-the-badge&logo=database&logoColor=white)&nbsp;
 
+</div>
 
 ## Contatos:
 
