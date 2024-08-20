@@ -7,6 +7,7 @@ Minha curiosidade é uma chama que nunca se apaga, guiando-me através do meu fa
 
 Qualquer coisa posso fazer, desde que esteja com uma garrafa de café em mãos.
 
+<br>
 
 ## Minhas Habilidades
 
@@ -20,7 +21,6 @@ Qualquer coisa posso fazer, desde que esteja com uma garrafa de café em mãos.
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-
 #### Studying in this moment:
 
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
@@ -33,10 +33,10 @@ Qualquer coisa posso fazer, desde que esteja com uma garrafa de café em mãos.
 ![NetBeans](https://img.shields.io/badge/NetBeans-1F9B1F?style=for-the-badge&logo=apache-netbeans&logoColor=white)&nbsp;
 ![DBEAVE](https://img.shields.io/badge/DBEAVE-007396?style=for-the-badge&logo=database&logoColor=white)&nbsp;
 
-
-
+<br>
 
 ## Contatos:
+
 
 <div> 
 <a href="https://www.instagram.com/geisbelly" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
