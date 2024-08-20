@@ -1,10 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0c6875&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0c6875&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+e+Geisbelly+;Prazer+em+conhecer+você!+:%29)](https://git.io/typing-svg)
 
-<div align="center" />
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=0C6875&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=800&height=90&lines=Oie%2C+meu+nome+%C3%A9+Geisbelly;%C3%89+um+prazer+t%C3%AA-lo(a)+aqui!)](https://git.io/typing-svg)
-
-<div> 
 
 ## Sobre Mim
 
