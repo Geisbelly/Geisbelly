@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=0C6875&center=verdadeiro&vCenter=verdadeiro&repeat=verdadeiro&random=falso&width=800&height=90&lines=Oie%2C+meu+nome+%C3%A9+Geisbelly;%C3%89+um+prazer+t%C3%AA-lo(a)+aqui!)](https://git.io/typing-svg)
 
+<div align="center" />
+
+<div> 
+
 ## Sobre Mim
 
 
