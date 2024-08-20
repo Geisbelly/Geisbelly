@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0c6875&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=179aad&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0c6875&size=40&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+e+Geisbelly+;Prazer+em+conhecer+você!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=40&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+e+Geisbelly+;Prazer+em+conhecer+você!+:%29)](https://git.io/typing-svg)
 
 
 
@@ -47,6 +47,7 @@ Seja qual for o obstáculo, posso enfrentá-lo com uma garrafa de café ao meu l
 #### Main Stack:
 
 ![Python](https://img.shields.io/badge/-Python-0c6875?style=for-the-badge&logo=python&labelColor=0D1117&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-0c6875?style=for-the-badge&logo=figma&labelColor=0D1117&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0c6875?style=for-the-badge&logo=java&labelColor=0D1117&logoColor=white)&nbsp;
 
 </div>
@@ -74,4 +75,4 @@ Seja qual for o obstáculo, posso enfrentá-lo com uma garrafa de café ao meu l
 </div>
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0c6875&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=179aad&height=120&section=footer"/>
