@@ -8,7 +8,7 @@
 
 
  
-## Sobre Mim
+# Sobre Mim
 
 
 Apenas uma melancólica se aventurando na paixão pelo mundo da tecnologia.
@@ -21,55 +21,57 @@ Seja qual for o obstáculo, posso enfrentá-lo com uma garrafa de café ao meu l
 <div> 
 
 
+### Contatos:
+
+<div> 
+<a href="https://www.instagram.com/geisbelly" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-0c6875?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="mailto:geisbelly19@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-0c6875?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/geisbelly-vict%C3%B3ria-moraes-5735a9275/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0c6875?style=for-the-badge&logo=linkedin&logoColor=white">
+</a> 
+</div>
+
+<br>
  
 ## Minhas Habilidades
 
-<img src="https://github.com/Geisbelly/Geisbelly/blob/main/computer-illustration2.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/Geisbelly/Geisbelly/blob/main/computer-illustration(1).png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 <div align="left">
  
 #### Main Stack:
 
-![Python](https://img.shields.io/badge/-Python-0c6875?style=for-the-badge&logo=python&labelColor=0c6875&logoColor=FFFFFF)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0c6875?style=for-the-badge&logo=java&labelColor=0c6875&logoColor=FFFFFF)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0c6875?style=for-the-badge&logo=python&labelColor=0D1117&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0c6875?style=for-the-badge&logo=java&labelColor=0D1117&logoColor=white)&nbsp;
+
+</div>
 
 <div align="left">
 
 #### Secondary Stack:
 
-![HTML](https://img.shields.io/badge/-HTML5-0c6875?style=for-the-badge&logo=html5&labelColor=0c6875&logoColor=FFFFFF)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS3-0c6875?style=for-the-badge&logo=css3&labelColor=0c6875&logoColor=FFFFFF)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-0c6875?style=for-the-badge&logo=sqlite&labelColor=0c6875&logoColor=FFFFFF)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML5-0c6875?style=for-the-badge&logo=html5&labelColor=0D1117&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS3-0c6875?style=for-the-badge&logo=css3&labelColor=0D1117&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-0c6875?style=for-the-badge&logo=sqlite&labelColor=0D1117&logoColor=white)&nbsp;
 
 #### Studying in this moment:
 
-![React.js](https://img.shields.io/badge/-React.js-0c6875?style=for-the-badge&logo=react&labelColor=0c6875&logoColor=FFFFFF)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0c6875?style=for-the-badge&logo=javascript&labelColor=0c6875&logoColor=FFFFFF)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0c6875?style=for-the-badge&logo=react&labelColor=0D1117&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0c6875?style=for-the-badge&logo=javascript&labelColor=0D1117&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
-![VScode](https://img.shields.io/badge/-vscode-0c6875?style=for-the-badge&logo=visual-studio-code&labelColor=0c6875&logoColor=FFFFFF)&nbsp;
-![Notion](https://img.shields.io/badge/-Notion-0c6875?style=for-the-badge&logo=notion&labelColor=0c6875&logoColor=FFFFFF)&nbsp;
-![NetBeans](https://img.shields.io/badge/-NetBeans-0c6875?style=for-the-badge&logo=apache-netbeans&labelColor=0c6875&logoColor=FFFFFF)&nbsp;
-![DBEAVE](https://img.shields.io/badge/-DBEAVE-0c6875?style=for-the-badge&logo=database&labelColor=0c6875&logoColor=FFFFFF)&nbsp;
+![Notion](https://img.shields.io/badge/-Notion-0c6875?style=for-the-badge&logo=notion&labelColor=0D1117&logoColor=white)&nbsp;
+![VScode](https://img.shields.io/badge/-vscode-0c6875?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117&logoColor=white)&nbsp;
+![NetBeans](https://img.shields.io/badge/-NetBeans-0c6875?style=for-the-badge&logo=apache-netbeans&labelColor=0D1117&logoColor=white)&nbsp;
+![DBEAVE](https://img.shields.io/badge/-DBEAVE-0c6875?style=for-the-badge&logo=database&labelColor=0D1117&logoColor=white)&nbsp;
 
 </div>
-
-
-
-
-## Contatos:
-
-
-<div> 
-<a href="https://www.instagram.com/geisbelly" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:geisbelly19@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/geisbelly-vict%C3%B3ria-moraes-5735a9275/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-</div>&nbsp;&nbsp;
- 
-
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0c6875&height=120&section=footer"/>
