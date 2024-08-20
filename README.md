@@ -3,9 +3,9 @@
 
 Apenas uma melancólica se aventurando na paixão pelo mundo da tecnologia.
 
-Sou uma exploradora solitária no vasto universo da Tecnologia da Informação, navegando pelo caminho da Ciência da Computação com um desejo profundo de entender e criar. Minha jornada é marcada por uma busca constante, prototipações, experiência do usuário e testes, tentando transformar ideias e desafios em soluções (nem sempre tão simples).
+Sou uma exploradora (na verdade, sou uma conquistadora rsrs) do vasto universo da Tecnologia da Informação, navegando pelo caminho da Ciência da Computação. Minha jornada é marcada por uma busca constante pelo novo, prototipações, experiência do usuário e testes, tentando transformar ideias e desafios em soluções (nem sempre tão simples).
 
-Minha curiosidade é uma chama que nunca se apaga, guiando-me através do meu fascínio pela ciência de dados e do aprendizado de máquinas. Cada projeto se apresenta como uma tela em branco, onde a programação se torna uma forma de expressão e cada desafio, uma oportunidade de descobrir novas possibilidades.
+Minha curiosidade é uma chama que nunca se apaga (talvez ao raiar do sol — uma típica noturna), guiando-me através do meu fascínio pela ciência de dados e pelo aprendizado de máquinas. Cada projeto se apresenta como uma tela em branco, onde a programação se torna uma forma de expressão e cada desafio, uma oportunidade de descobrir novas possibilidades.
 
 Seja qual for o obstáculo, posso enfrentá-lo com uma garrafa de café ao meu lado.
 
