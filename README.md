@@ -31,38 +31,33 @@ Seja qual for o obstáculo, posso enfrentá-lo com uma garrafa de café ao meu l
  
 #### Main Stack:
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-
-</div>
-
-
+![Python](https://img.shields.io/badge/-Python-0c6875?style=for-the-badge&logo=python&labelColor=0c6875&logoColor=FFFFFF)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0c6875?style=for-the-badge&logo=java&labelColor=0c6875&logoColor=FFFFFF)&nbsp;
 
 <div align="left">
 
 #### Secondary Stack:
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
-
-
+![HTML](https://img.shields.io/badge/-HTML5-0c6875?style=for-the-badge&logo=html5&labelColor=0c6875&logoColor=FFFFFF)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS3-0c6875?style=for-the-badge&logo=css3&labelColor=0c6875&logoColor=FFFFFF)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-0c6875?style=for-the-badge&logo=sqlite&labelColor=0c6875&logoColor=FFFFFF)&nbsp;
 
 #### Studying in this moment:
 
-
-
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0c6875?style=for-the-badge&logo=react&labelColor=0c6875&logoColor=FFFFFF)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0c6875?style=for-the-badge&logo=javascript&labelColor=0c6875&logoColor=FFFFFF)&nbsp;
 
 #### Workstation Tools:
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![NetBeans](https://img.shields.io/badge/NetBeans-1F9B1F?style=for-the-badge&logo=apache-netbeans&logoColor=white)&nbsp;
-![DBEAVE](https://img.shields.io/badge/DBEAVE-007396?style=for-the-badge&logo=database&logoColor=white)&nbsp;
+![VScode](https://img.shields.io/badge/-vscode-0c6875?style=for-the-badge&logo=visual-studio-code&labelColor=0c6875&logoColor=FFFFFF)&nbsp;
+![Notion](https://img.shields.io/badge/-Notion-0c6875?style=for-the-badge&logo=notion&labelColor=0c6875&logoColor=FFFFFF)&nbsp;
+![NetBeans](https://img.shields.io/badge/-NetBeans-0c6875?style=for-the-badge&logo=apache-netbeans&labelColor=0c6875&logoColor=FFFFFF)&nbsp;
+![DBEAVE](https://img.shields.io/badge/-DBEAVE-0c6875?style=for-the-badge&logo=database&labelColor=0c6875&logoColor=FFFFFF)&nbsp;
 
 </div>
+
+
+
 
 ## Contatos:
 
