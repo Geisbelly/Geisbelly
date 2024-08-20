@@ -53,4 +53,4 @@ Seja qual for o obstáculo, posso enfrentá-lo com uma garrafa de café ao meu l
 
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0c6875&height=120&section=footer"/>
