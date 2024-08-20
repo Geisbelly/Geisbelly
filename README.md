@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0c6875&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0c6875&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+e+Geisbelly+;Prazer+em+conhecer+você!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0c6875&size=40&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+e+Geisbelly+;Prazer+em+conhecer+você!+:%29)](https://git.io/typing-svg)
 
 
 
@@ -24,7 +24,7 @@ Seja qual for o obstáculo, posso enfrentá-lo com uma garrafa de café ao meu l
  
 ## Minhas Habilidades
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" style="filter: hue-rotate(0deg) saturate(100%) brightness(1) invert(0); fill: #0c6875;" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/Geisbelly/Geisbelly/blob/main/computer-illustration2.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 <div align="left">
