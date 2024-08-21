@@ -73,6 +73,24 @@ Seja qual for o obstáculo, posso enfrentá-lo com uma garrafa de café ao meu l
 ![DBEAVE](https://img.shields.io/badge/-DBEAVE-0c6875?style=for-the-badge&logo=database&labelColor=0D1117&logoColor=white)&nbsp;
 
 </div>
-  
+<br>
+
+## Meu GitHub
+
+### Leituras
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=geisbelly&theme=dark&hide_border=true&border_radius=8&locale=pt_BR&card_width=1000&card_height=200&background=EB545400&fire=108A9B&stroke=0C6875&currStreakNum=108A9B&sideNums=108A9B&currStreakLabel=108A9B&sideLabels=108A9B&dates=108C9D&excludeDaysLabel=0C6875&ring=108A9B)](https://git.io/streak-stats)
+
+### Estatística
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api?username=geisbelly&show_icons=true&theme=transparent&title_color=0c6875&text_color=434d58&icon_color=108A9B&border_color=e4e2e2&bg_color=00000000&hide_border=true&border_radius=8&locale=pt-br&card_width=500&card_height=200" style="margin-right: 50px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geisbelly&layout=compact&theme=radical&title_color=0c6875&text_color=434d58&icon_color=ff5733&border_color=e4e2e2&bg_color=00000000&hide_border=true&locale=pt-br&card_width=350&card_height=200">
+</div>
+
+
+
+
+
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=179aad&height=120&section=footer"/>
