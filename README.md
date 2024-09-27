@@ -64,13 +64,16 @@ Seja qual for o obstáculo, posso enfrentá-lo com uma garrafa de café ao meu l
 
 ![React.js](https://img.shields.io/badge/-React.js-0c6875?style=for-the-badge&logo=react&labelColor=0D1117&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0c6875?style=for-the-badge&logo=javascript&labelColor=0D1117&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0c6875?style=for-the-badge&logo=typescript&labelColor=0D1117&logoColor=white)&nbsp;
 
 #### Workstation Tools:
 
 ![Notion](https://img.shields.io/badge/-Notion-0c6875?style=for-the-badge&logo=notion&labelColor=0D1117&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0c6875?style=for-the-badge&logo=github&labelColor=0D1117&logoColor=white)&nbsp;
 ![VScode](https://img.shields.io/badge/-vscode-0c6875?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117&logoColor=white)&nbsp;
 ![NetBeans](https://img.shields.io/badge/-NetBeans-0c6875?style=for-the-badge&logo=apache-netbeans&labelColor=0D1117&logoColor=white)&nbsp;
 ![DBEAVE](https://img.shields.io/badge/-DBEAVE-0c6875?style=for-the-badge&logo=database&labelColor=0D1117&logoColor=white)&nbsp;
+
 
 </div>
 <br>
