@@ -39,7 +39,7 @@ Seja qual for o obstáculo, posso enfrentá-lo com uma garrafa de café ao meu l
  
 ## Minhas Habilidades
 
-<img src="https://github.com/Geisbelly/Geisbelly/blob/main/computer-illustration(1).png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/Geisbelly-vic/Geisbelly-vic/blob/main/computer-illustration(2).png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 <div align="left">
