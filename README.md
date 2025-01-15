@@ -62,7 +62,7 @@ Seja qual for o obstáculo, posso enfrentá-lo com uma garrafa de café ao meu l
 
 #### Studying in this moment:
 
-![React.js](https://img.shields.io/badge/-React.js-0c6875?style=for-the-badge&logo=react&labelColor=0D1117&logoColor=white)&nbsp;
+![Next.tsx](https://img.shields.io/badge/-Next.tsx-0c6875?style=for-the-badge&logo=react&labelColor=0D1117&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0c6875?style=for-the-badge&logo=javascript&labelColor=0D1117&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0c6875?style=for-the-badge&logo=typescript&labelColor=0D1117&logoColor=white)&nbsp;
 
