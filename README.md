@@ -84,16 +84,18 @@ Seja qual for o obstáculo, posso enfrentá-lo com uma garrafa de café ao meu l
 
 ## Meu GitHub
 
-### Leituras
+<!--### Leituras-->
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=geisbelly&theme=dark&hide_border=true&border_radius=8&locale=pt_BR&card_width=1000&card_height=200&background=EB545400&fire=963927&stroke=963927&currStreakNum=963927&sideNums=963927&currStreakLabel=963927&sideLabels=963927&dates=963927&excludeDaysLabel=861B0B&ring=963927)](https://git.io/streak-stats)
 
-### Estatística
+<!--### Estatística
+
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="https://github-readme-stats.vercel.app/api?username=geisbelly&show_icons=true&theme=transparent&title_color=963927&text_color=434d58&icon_color=963927&border_color=e4e2e2&bg_color=00000000&hide_border=true&border_radius=8&locale=pt-br&card_width=450&card_height=200" style="margin-right: 50px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geisbelly&layout=compact&theme=radical&title_color=963927&text_color=434d58&icon_color=ff5733&border_color=e4e2e2&bg_color=00000000&hide_border=true&locale=pt-br&card_width=350&card_height=200">
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=geisbelly&show_icons=true&theme=transparent&title_color=963927&text_color=434d58&icon_color=963927&border_color=e4e2e2&bg_color=00000000&hide_border=true&border_radius=8&locale=pt-br&count_private=true&card_width=450&card_height=200" style="margin-right: 50px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geisbelly&layout=compact&theme=radical&title_color=963927&text_color=434d58&icon_color=ff5733&border_color=e4e2e2&bg_color=00000000&hide_border=true&locale=pt-br&card_width=350&card_height=200&count_private=true&include_all_commits=true">
+
+</div> -->
 
 
 
