@@ -79,8 +79,7 @@ Seja qual for o obstáculo, posso enfrentá-lo com uma garrafa de café ao meu l
 ![UX/UI](https://img.shields.io/badge/-UX%2FUI-792912?style=for-the-badge&logo=adobed&labelColor=0D1117&logoColor=white)&nbsp;
 
 <details>
-<summary>MAIS SKILLS</summary>
-
+<summary>Mais Skills</summary>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-792912?style=for-the-badge&logo=javascript&labelColor=0D1117&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML5-792912?style=for-the-badge&logo=html5&labelColor=0D1117&logoColor=white)&nbsp;
@@ -93,10 +92,6 @@ Seja qual for o obstáculo, posso enfrentá-lo com uma garrafa de café ao meu l
 ![DBEAVE](https://img.shields.io/badge/-DBEAVE-792912?style=for-the-badge&logo=database&labelColor=0D1117&logoColor=white)&nbsp;
 
 </details>
-
-
-
-
 </div>
 <br>
 
