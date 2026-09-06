@@ -3,15 +3,37 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Portfólio de Geisbelly Victória — Quality Assurance, desenvolvimento Full Stack e Inteligência Artificial. Palmas, TO.">
+<meta name="description" content="Portfólio de Geisbelly Victória — Quality Assurance, desenvolvimento Full Stack e Inteligência Artificial. Testes funcionais, homologação, React, TypeScript, Python, FastAPI e LangGraph. Palmas, Tocantins.">
+<meta name="keywords" content="Geisbelly Victória, portfólio QA, analista de qualidade de software, desenvolvedora full stack, desenvolvedora front-end, desenvolvedora back-end, testes de software, homologação, React, TypeScript, Python, FastAPI, LangGraph, IA generativa, UX UI, Palmas Tocantins, desenvolvedora júnior">
 <meta name="author" content="Geisbelly Victória Feitosa Moraes Domiciano">
-<meta property="og:type" content="website">
-<meta property="og:title" content="Geisbelly Victória — QA · Full Stack · IA">
-<meta property="og:description" content="Um portfólio, sete narrativas. Escolha a área e a página se reorganiza: QA, Full Stack, Front-end, Back-end, IA, UX/UI e Produto.">
-<meta property="og:locale" content="pt_BR">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <meta name="theme-color" content="#0B0D0F">
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%230B0D0F'/%3E%3Cpath d='M16 5l2.6 8.4L27 16l-8.4 2.6L16 27l-2.6-8.4L5 16l8.4-2.6z' fill='%23B89B61'/%3E%3C/svg%3E">
+<meta name="format-detection" content="telephone=no">
+<link rel="canonical" href="https://geisbelly.github.io/Geisbelly/">
+
+<meta property="og:type" content="profile">
+<meta property="og:site_name" content="Geisbelly Victória — Portfólio">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:url" content="https://geisbelly.github.io/Geisbelly/">
+<meta property="og:title" content="Geisbelly Victória — QA · Full Stack · IA">
+<meta property="og:description" content="Um portfólio, sete narrativas: a página se reorganiza conforme a área escolhida. 13 projetos com case completo, do requisito ao deploy.">
+<meta property="og:image" content="https://geisbelly.github.io/Geisbelly/og-image.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Lua dourada sobre céu estrelado com o nome Geisbelly Victória">
+<meta property="profile:first_name" content="Geisbelly">
+<meta property="profile:last_name" content="Victória">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Geisbelly Victória — QA · Full Stack · IA">
+<meta name="twitter:description" content="Um portfólio, sete narrativas: a página se reorganiza conforme a área escolhida.">
+<meta name="twitter:image" content="https://geisbelly.github.io/Geisbelly/og-image.png">
+
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+<link rel="icon" type="image/png" sizes="192x192" href="moon-192.png">
+<link rel="icon" type="image/png" sizes="512x512" href="moon-512.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="manifest" href="site.webmanifest">
 <title>Geisbelly Victória — Portfólio</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Cormorant:ital,wght@0,300;0,400;0,500;1,300;1,400&family=Cinzel:wght@400;500&family=Yeseva+One&family=Italiana&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
@@ -58,7 +80,9 @@
     background:rgba(11,13,15,.88);backdrop-filter:blur(8px);border-bottom:1px solid var(--gold-line);margin:0 -20px}
   nav ul{overflow-x:auto;scrollbar-width:none}
   nav ul::-webkit-scrollbar{display:none}
-  nav .brand{font-family:var(--display);font-size:17px;letter-spacing:.16em;color:var(--gold-2)}
+  nav .brand{display:flex;align-items:center;gap:9px;font-family:var(--display);font-size:15px;
+    letter-spacing:.14em;color:var(--gold-2);text-decoration:none}
+  nav .brand img{width:22px;height:22px;display:block}
   nav ul{display:flex;gap:22px;list-style:none;white-space:nowrap}
   nav a{text-decoration:none;color:var(--mist)}
   nav a:hover{color:var(--cream)}
@@ -377,6 +401,9 @@
   nav ul li:first-child{margin-left:0}
   .links a,.links span{margin:0 14px 8px}
 
+  .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;
+    clip:rect(0 0 0 0);clip-path:inset(50%);white-space:nowrap;border:0}
+
   .swap{animation:swap .45s ease}
   @keyframes swap{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:none}}
 
@@ -407,6 +434,7 @@
     nav ul{gap:16px;font-size:11px;max-width:64vw}
   }
 </style>
+<script type="application/ld+json">{"@context": "https://schema.org", "@graph": [{"@type": "Person", "@id": "https://geisbelly.github.io/Geisbelly/#geisbelly", "name": "Geisbelly Victória Feitosa Moraes Domiciano", "alternateName": "Geisbelly Victória", "givenName": "Geisbelly", "familyName": "Domiciano", "jobTitle": ["Analista de Quality Assurance", "Desenvolvedora Full Stack"], "description": "Profissional de tecnologia com atuação em Quality Assurance, desenvolvimento Full Stack e Inteligência Artificial, do levantamento de requisitos ao ambiente em produção.", "url": "https://geisbelly.github.io/Geisbelly/", "image": "https://geisbelly.github.io/Geisbelly/og-image.png", "email": "mailto:geisbelly19@gmail.com", "telephone": "+5563933006942", "address": {"@type": "PostalAddress", "addressLocality": "Palmas", "addressRegion": "TO", "addressCountry": "BR"}, "sameAs": ["https://github.com/geisbelly", "https://linkedin.com/in/geisbelly"], "worksFor": {"@type": "Organization", "name": "Ageway"}, "alumniOf": [{"@type": "CollegeOrUniversity", "name": "ULBRA Palmas"}, {"@type": "EducationalOrganization", "name": "IFTO"}], "knowsAbout": ["Quality Assurance", "Testes de software", "Homologação", "Testes de API", "Swagger/OpenAPI", "Desenvolvimento Full Stack", "React", "React Native", "Next.js", "TypeScript", "JavaScript", "Python", "FastAPI", "SQLAlchemy", "SQL", "PostgreSQL", "Supabase", "Firebase", "Inteligência Artificial Generativa", "LangGraph", "Agentes inteligentes", "Engenharia de prompt", "UX/UI", "Levantamento de requisitos", "Arquitetura de software", "Go", "C#"], "knowsLanguage": "pt-BR"}, {"@type": "WebSite", "@id": "https://geisbelly.github.io/Geisbelly/#site", "url": "https://geisbelly.github.io/Geisbelly/", "name": "Geisbelly Victória — Portfólio", "inLanguage": "pt-BR", "about": {"@id": "https://geisbelly.github.io/Geisbelly/#geisbelly"}, "publisher": {"@id": "https://geisbelly.github.io/Geisbelly/#geisbelly"}}, {"@type": "ProfilePage", "@id": "https://geisbelly.github.io/Geisbelly/#page", "url": "https://geisbelly.github.io/Geisbelly/", "name": "Portfólio de Geisbelly Victória", "isPartOf": {"@id": "https://geisbelly.github.io/Geisbelly/#site"}, "about": {"@id": "https://geisbelly.github.io/Geisbelly/#geisbelly"}, "inLanguage": "pt-BR", "mainEntity": {"@id": "https://geisbelly.github.io/Geisbelly/#geisbelly"}}, {"@type": "ItemList", "name": "Projetos selecionados", "itemListOrder": "https://schema.org/ItemListOrderAscending", "numberOfItems": 10, "itemListElement": [{"@type": "ListItem", "position": 1, "item": {"@type": "CreativeWork", "name": "Promora", "creator": {"@id": "https://geisbelly.github.io/Geisbelly/#geisbelly"}}}, {"@type": "ListItem", "position": 2, "item": {"@type": "CreativeWork", "name": "TrailUp", "creator": {"@id": "https://geisbelly.github.io/Geisbelly/#geisbelly"}}}, {"@type": "ListItem", "position": 3, "item": {"@type": "CreativeWork", "name": "Affiliate Hub", "creator": {"@id": "https://geisbelly.github.io/Geisbelly/#geisbelly"}}}, {"@type": "ListItem", "position": 4, "item": {"@type": "CreativeWork", "name": "Marquei", "creator": {"@id": "https://geisbelly.github.io/Geisbelly/#geisbelly"}}}, {"@type": "ListItem", "position": 5, "item": {"@type": "CreativeWork", "name": "AgroManager", "creator": {"@id": "https://geisbelly.github.io/Geisbelly/#geisbelly"}}}, {"@type": "ListItem", "position": 6, "item": {"@type": "CreativeWork", "name": "Sistema jurídico", "creator": {"@id": "https://geisbelly.github.io/Geisbelly/#geisbelly"}}}, {"@type": "ListItem", "position": 7, "item": {"@type": "CreativeWork", "name": "SID Delivery", "creator": {"@id": "https://geisbelly.github.io/Geisbelly/#geisbelly"}}}, {"@type": "ListItem", "position": 8, "item": {"@type": "CreativeWork", "name": "Agenda IA", "creator": {"@id": "https://geisbelly.github.io/Geisbelly/#geisbelly"}}}, {"@type": "ListItem", "position": 9, "item": {"@type": "CreativeWork", "name": "Hortalink", "creator": {"@id": "https://geisbelly.github.io/Geisbelly/#geisbelly"}}}, {"@type": "ListItem", "position": 10, "item": {"@type": "CreativeWork", "name": "FlashClip", "creator": {"@id": "https://geisbelly.github.io/Geisbelly/#geisbelly"}}}]}]}</script>
 </head>
 <body>
 <canvas id="sky" aria-hidden="true"></canvas>
@@ -425,7 +453,7 @@
 
 <div class="page">
   <nav>
-    <span class="brand">GV</span>
+    <a class="brand" href="#topo" aria-label="Geisbelly Victória — início"><img src="moon-192.png" alt="" width="22" height="22"><span>GEISBELLY</span></a>
     <ul><li><a href="#sobre">Sobre</a></li><li><a href="#destaque">Destaque</a></li><li><a href="#trabalhos">Projetos</a></li><li><a href="#experiencia">Experiência</a></li><li><a href="#formacao">Formação</a></li><li><a href="#contato">Contato</a></li></ul>
   </nav>
 
@@ -437,6 +465,7 @@
     <svg class="corner br" viewBox="0 0 30 30"><path d="M0 30V0h30M7 7h10M7 7v10"/></svg>
 
    <div class="hero-inner">
+    <h1 class="sr-only">Geisbelly Victória — Quality Assurance, desenvolvimento Full Stack e Inteligência Artificial em Palmas, Tocantins</h1>
     <div class="hero-top">
       <span><svg viewBox="0 0 12 12"><path d="M6 0l1.3 4.7L12 6l-4.7 1.3L6 12l-1.3-4.7L0 6l4.7-1.3z"/></svg>PORTFÓLIO</span>
       <span>DISPONÍVEL PARA PROJETOS<svg viewBox="0 0 12 12"><path d="M6 0l1.3 4.7L12 6l-4.7 1.3L6 12l-1.3-4.7L0 6l4.7-1.3z"/></svg></span>
